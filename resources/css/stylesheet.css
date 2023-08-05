@@ -1,0 +1,47 @@
+#headerSection {
+  background-color: #6ab04c;
+}
+
+#brand {
+  font-weight: 600;
+  color: white;
+  font-style: italic;
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+body {
+  background-color: #f1f2f6;
+}
+
+#groups {
+  font-weight: 600;
+  color: #6ab04c;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#loginSection {
+  padding: 15px;
+  border: 1px solid #6ab04c;
+  background-color: white;
+  border-radius: 20px;
+}
+
+input[type="text"] {
+  border: 1px solid #6ab04c;
+}
+
+input[type="password"] {
+  border: 1px solid #6ab04c;
+}
+
+#imageBox {
+  border: 1px solid #6ab04c;
+  border-radius: 5px;
+}
+
+#roleBox {
+  border: 1px solid #6ab04c;
+  border-radius: 5px;
+}
